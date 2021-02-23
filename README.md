@@ -19,7 +19,7 @@ and
 ### Selecting Category
 If a category exists in your database it will show up in the dropdown when clicked.
 
-![Selecting Cateroy](https://github.com/irondru562/InventoryManagement/tree/main/images/sel_cat.png?raw=true)
+![Selecting Cateroy](https://github.com/irondru562/InventoryManagement/blob/main/images/sel_cat.png?raw=true)
 
 ### Adding Categories
 If you want to add a new category that doesnt already exists.
