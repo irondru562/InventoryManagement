@@ -24,7 +24,7 @@ If a category exists in your database it will show up in the dropdown when click
 ### Adding Categories
 If you want to add a new category that doesnt already exists.
 
-**Add pictrue here**
+![Adding Cateroy](https://github.com/irondru562/InventoryManagement/blob/main/images/cat_add.png?raw=true)
 
 1. Click on Edit.
 2. Hover over Category.
@@ -48,7 +48,7 @@ Select the item to view an overview about the item to the right.
 2. Fill out information on *Add Inventory* window.
 3. Click **Ok**
 
-**Add picture here**
+![Adding Item](https://github.com/irondru562/InventoryManagement/blob/main/images/add_item.png?raw=true)
 
 ### Removing Item
 
@@ -64,12 +64,14 @@ Once changes are made click the **Update** button.
 
 ``` NOTE: As the inventory on hand goes below the inventory needed, the field will be highlighted red to indicate that the item needs to be ordered. ```
 
+![Field Highlight](https://github.com/irondru562/InventoryManagement/blob/main/images/low_item.png?raw=true)
+
 ### Orders
 
 Pressing the **Orders** button will open up a new window.
 
-**Add picture here**
+![Order](https://github.com/irondru562/InventoryManagement/blob/main/images/order.png?raw=true)
 
 Pressing the **Order** button at the bottom will produce a list of items that need to be ordered. If item has already been ordered (order button already pressed) then a checkmark will appear in the *Ordered* field. If you have recieved the item alread, then click yes on *recieved* and database will be updated.
 
-**Add picture here**
+![Order Pressed](https://github.com/irondru562/InventoryManagement/blob/main/images/order_pressed.png?raw=true)
